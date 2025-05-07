@@ -1,0 +1,14 @@
+<testsuites>
+  <testsuite name="Test-Allure-dotNet.dll" tests="1" skipped="0" failures="0" errors="0" time="0.00291" timestamp="2025-05-07T15:27:23" hostname="main-VMware20-1" id="0" package="Test-Allure-dotNet.dll">
+    <properties />
+    <testcase classname="NUnitExample.Tests" name="TestExample" time="0.0029100" />
+    <system-out>
+Test Framework Informational Messages:
+NUnit Adapter 5.0.0.0: Test execution started
+Running all tests in /home/main/Test-Allure-dotNet/bin/Debug/net8.0/Test-Allure-dotNet.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 5.0.0.0: Test execution complete
+</system-out>
+    <system-err></system-err>
+  </testsuite>
+</testsuites>
