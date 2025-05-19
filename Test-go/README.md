@@ -18,3 +18,6 @@ after creating the allure-results now run:
 ```
 allure serve allure-results --host 0.0.0.0 --port 9999
 ```
+
+# Sources
+- https://github.com/ozontech/allure-go/tree/master
