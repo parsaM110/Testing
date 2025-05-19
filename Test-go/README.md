@@ -14,3 +14,7 @@ if there was any problem run
 ```
 go mod tidy
 ```
+after creating the allure-results now run:
+```
+allure serve allure-results --host 0.0.0.0 --port 9999
+```
